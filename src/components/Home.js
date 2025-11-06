@@ -8,7 +8,7 @@ export default function Home({ handleParsePdf, handleParseDataset}) {
   const navigate = useNavigate();
   
   useEffect(() => {
-    fetch('/data/laws.json')
+    fetch(`${process.env.PUBLIC_URL}/data/laws.json`)
       .then((response) => response.json())
       .then((data) => setData(data))
       .catch((error) => console.error('Error fetching data:', error));
