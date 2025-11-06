@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pdaps-geomap-dashboard/static/css/main.e47331b7.css",
-    "main.js": "/pdaps-geomap-dashboard/static/js/main.3f299c77.js",
+    "main.js": "/pdaps-geomap-dashboard/static/js/main.1cff1dae.js",
     "static/js/453.875b5378.chunk.js": "/pdaps-geomap-dashboard/static/js/453.875b5378.chunk.js",
     "index.html": "/pdaps-geomap-dashboard/index.html",
     "main.e47331b7.css.map": "/pdaps-geomap-dashboard/static/css/main.e47331b7.css.map",
-    "main.3f299c77.js.map": "/pdaps-geomap-dashboard/static/js/main.3f299c77.js.map",
+    "main.1cff1dae.js.map": "/pdaps-geomap-dashboard/static/js/main.1cff1dae.js.map",
     "453.875b5378.chunk.js.map": "/pdaps-geomap-dashboard/static/js/453.875b5378.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e47331b7.css",
-    "static/js/main.3f299c77.js"
+    "static/js/main.1cff1dae.js"
   ]
 }
