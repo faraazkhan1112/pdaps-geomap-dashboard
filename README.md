@@ -19,4 +19,4 @@ A dashboard for visualizing and exploring public health laws data through an int
 -----
 
 ![***Dark Mode***](dark.png)
-![***Light Mode***](light.png)
+![***Light - Map***](MapLight.png)

@@ -123,7 +123,7 @@ class GeoMap extends React.Component {
     // }
 
     let setState = this.setState.bind(this);
-    d3.json("data/us.json").then(function(mapData) {  
+    d3.json(process.env.PUBLIC_URL + "/data/us.json").then(function(mapData) {  
       console.log("inside d3");   
       setState({mapData: mapData}); 
       console.log(mapData);
