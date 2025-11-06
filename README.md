@@ -7,7 +7,7 @@ A dashboard for visualizing and exploring public health laws data through an int
 *The backend has been deployed to http://130.245.117.21:5005, so you only need to run `npm start` to get the application up and running locally.*
 
 -----
-### Backend (in /ParseCodebook):
+### Backend *(in /ParseCodebook)*:
 >#### `python app.py`
 
 ### Frontend:
