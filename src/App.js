@@ -4,7 +4,7 @@ import Home from './components/Home';
 import GeoMap from './components/GeoMap';
 import HomeIcon from '@mui/icons-material/Home';
 import DarkModeToggle from './components/DarkModeToggle';
-import { BrowserRouter as Router, Routes, Route, Link} from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, Link} from 'react-router-dom';
 import { DarkModeProvider, useDarkMode } from './contexts/DarkModeContext';
 
 function AppContent() {
